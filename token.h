@@ -1,0 +1,9 @@
+#define KEYWORD 1
+#define OPERATOR 2
+#define DELIMITER 3
+#define INTEGER 4
+#define FLOAT 5
+#define STRING 6
+#define IDENTIFIER 7
+#define ONE_LINE_COMMENT 8
+#define WHITESPACE 9
