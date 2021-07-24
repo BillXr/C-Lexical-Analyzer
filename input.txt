@@ -1,0 +1,92 @@
+58
+135
+4321
+aaaa
+0x23
+abcd
+"abcd"
+55	abcd
+075	55	abcd
+//abcde
+/*abc123
+cd456*/
+/abcd
+/*abcd1234*/
+		1234
+"abcd'
+"abcd_1234"
+
+a_12a
+12.45
+10e2
+10.1e2
+a!@#$
+5+5
+5%5
+ABCDabcd_1234
+5=5
+5!=10
+0xABC
+OXABC
+OX123456789
+012
+0
+0.15
+0.1e2
+00.1e2
+0.0
+1,2
+1.a
+"1.2"
+"1,2"
+"!@#$%"
+012
+0012
+089
+//abcd			abcd
+(1.5)
+(abcd)
+( //comment)
+_abcd
+0_abcd
+ab cd
+12 34
+int
+int	float
+5<10
+1 && 1
+1 || 1
+if(5<10)
+then
+else
+int+float
+char ch;
+5.23@#
+5+@
+5/int
+10+ch
+ch=10
+"double	return"
+"	break"
+/*float*/	
+"0xADF"
+/*0XADF*/
+"/*OXADF*/"
+	"/*OXADF*/"
+ABC/int
+"int"
+"int!=float"
+float+return
+hexadecimal 0xAD
+abc=abc
+5^2;
+10e2!=10
+a%b;
+/*abc
+1234*/
+"integer"
+"int+float"
+"comment"
+
+5	int
+10	+	10
